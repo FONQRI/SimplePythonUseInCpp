@@ -14,6 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 * **Behnam Sabaghi** - *Initial work* - [FONQRI](https://github.com/FONQRI)
 
+## Development
+[Python/C API Reference Manual¶](https://docs.python.org/3/c-api/index.html#c-api-index)
 
 ## License
 
